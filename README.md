@@ -33,8 +33,8 @@ My focus is on building digital experiences that feel buttery smooth, look incre
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirrexa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrexa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ My focus is on building digital experiences that feel buttery smooth, look incre
 ### 📫 Let's Connect
 
 *   🌐 **Portfolio:** [amirreza.me](https://amirreza.me)
-*   💼 **LinkedIn:** [Find me on LinkedIn](YOUR_LINKEDIN_URL)
+*   💼 **LinkedIn:** [Find me on LinkedIn](https://www.linkedin.com/in/amirreza-khodaee/)
 *   ✉️ **Reach Out:** Always open to discussing clean code, elegant architectures, and building the next big web product!
 
 <div align="center">
